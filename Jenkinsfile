@@ -13,7 +13,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Hello World from jenkins to git hub'
+                echo 'Hello World from jenkins to git hubfor version 7 and 8'
             }
         }
     }
